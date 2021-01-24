@@ -1,0 +1,105 @@
+body{
+    margin: 0%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+section{
+    height: 500px;
+    width: 100%;
+}
+.first-section{
+    background-image: url(header.bg.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+.rabiul{
+    font-size: 50px;
+    font-weight: 900;
+    color: lightcoral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+p{
+    color: #696969;
+    font-size: 24px;
+    margin-bottom: 32px;
+}
+.hire-me{
+    text-decoration: none;
+    background: linear-gradient(90deg,rgb(37, 37, 212),rgb(190, 27, 128)) ;
+    text-transform: uppercase;
+    color: white;
+    padding: 10px 36px;
+    border-radius: 5px;
+}
+.half-width img{
+    width: 100%;
+    margin-top: -50px;
+    float: left;
+}
+.second-section{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+}
+.third-section{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 12%;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+}
+.last-img{
+    display: flex;
+    width: 60%;
+    margin-top: 7%;
+    margin-left: 8%;
+}
+div img{
+    width: 45%;
+}
+#last{
+    text-align: center;
+}
+#span{
+    font-size: 25px;
+    color: tomato;
+    font-size: 15px;
+}
+h4{
+    text-align: center;
+    margin-top: 4%;
+}
+
+#last-2{
+    text-align: center;
+    font-size: 25px;
+    width: 47%;
+    margin-left: 27%;
+    margin-top: 2%;
+}
+#message{
+    background: #e02828;
+    /* background-position: center; */
+    text-align: center;
+    margin: 0%;
+    color: lightyellow;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 25%;
+    padding: 15px 0;
+
+}
+footer p{
+    text-align: center;
+    margin-top: 8%;
+}
